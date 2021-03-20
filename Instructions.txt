@@ -6,11 +6,10 @@ Official Web: https://github.com/kikemadrigal/freefall
 
 <img src="docs/images/freefall.gif" width=400px />
 
-To play just click here or download the file "freefall.dsk" and open it with your favorite MSX emulator
-
 ## Play online
 
 https://kikemadrigal.github.io/freefall/?disk=freefall.dsk&TOUCH_MODE=1
+
 
 
 ## English
