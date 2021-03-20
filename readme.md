@@ -1,6 +1,7 @@
 # Freefall
 
-By MSX Murcia "MSX.tipolisto.es"
+By MSX Murcia "[MSX.tipolisto.es](http://msx.tipolisto.es/)"
+
 
 <img src="docs/images/freefall.gif" width=400px />
 
@@ -14,7 +15,9 @@ https://kikemadrigal.github.io/freefall/?disk=freefall.dsk&TOUCH_MODE=1
 
 ### Introduction
 
-Game born from the tests of the MSX Murcia programmers.
+Game born from the tests of the MSX Murcia programmers for the "[basic10 liner contest](https://gkanold.wixsite.com/homeputerium)".
+
+Gaming platform: MSX1
 
 The objective of the game is to reach the maximum level and catch as many smiley faces
 
@@ -124,7 +127,9 @@ When space is pressed we will go to the jump routine of line 90
 
 ### Introducción
 
-Juego nacido de las pruebas de los programadores de MSX Murcia.
+Juego nacido de las pruebas de los programadores de MSX Murcia para el conscurso basic10 liner: https://gkanold.wixsite.com/homeputerium
+
+Plataforma para jugar: MSX1
 
 El objetivo del juego es llegar al máximo nivel y coger la mayor candtidad de caritas sonrientes
 
