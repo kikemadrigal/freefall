@@ -6,7 +6,7 @@ By MSX Murcia "MSX.tipolisto.es"
 
 ## Play online
 
-https://kikemadrigal.github.io/freefall/?disk=freefall.dsk
+https://kikemadrigal.github.io/freefall/
 
 ## English
 
