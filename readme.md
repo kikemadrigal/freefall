@@ -6,9 +6,9 @@ By MSX Murcia "MSX.tipolisto.es"
 
 ## Play online
 
-https://kikemadrigal.github.io/freefall/?disk=freefall.dsk
+https://kikemadrigal.github.io/freefall/?disk=freefall.dsk&TOUCH_MODE=1
 
-https://kikemadrigal.github.io/freefall/
+
 
 ## English
 
