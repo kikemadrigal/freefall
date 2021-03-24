@@ -2,7 +2,9 @@
 
 By MSX Murcia "[MSX.tipolisto.es](http://msx.tipolisto.es/)"
 
-Official Web: https://github.com/kikemadrigal/freefal
+Official Web: https://github.com/kikemadrigal/freefall
+
+documentation: https://kikemadrigal.github.io/freefall/freefall.html
 
 Gaming platform: MSX1
 
