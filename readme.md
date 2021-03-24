@@ -2,7 +2,13 @@
 
 By MSX Murcia "[MSX.tipolisto.es](http://msx.tipolisto.es/)"
 
-Official Web: https://github.com/kikemadrigal/freefall
+Official Web: https://github.com/kikemadrigal/freefal
+
+Gaming platform: MSX1
+
+Languaje: MSX Basic
+
+Category: Extrem-256
 
 <img src="docs/images/freefall.gif" width=400px />
 
@@ -19,7 +25,7 @@ https://kikemadrigal.github.io/freefall/?disk=freefall.dsk&TOUCH_MODE=1
 
 Game born from the tests of the MSX Murcia programmers for the "[basic10 liner contest](https://gkanold.wixsite.com/homeputerium)".
 
-Gaming platform: MSX1
+
 
 The objective of the game is to reach the maximum level and catch as many smiley faces
 
